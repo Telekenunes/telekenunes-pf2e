@@ -912,6 +912,9 @@
                 "AnimalSenses": {
                     "Prompt": "Select a sense available to your inherant animal."
                 },
+                "GreaterAnimalSenses": {
+                    "Prompt": "Select a sense available to your inherant animal."
+                },
                 "Senses": {
                     "EcholocationImprecise": "Echolocation (Imprecise) 30 feet",
                     "EcholocationPrecise": "Improve your echolocation to precise",
